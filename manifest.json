@@ -1,0 +1,11 @@
+{
+    "display_name": "Gemma4-Tools-Fix",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "Enerccio",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Enerccio/SillyTavern-Gemma4-Tools-Fix",
+    "auto_update": true
+}
